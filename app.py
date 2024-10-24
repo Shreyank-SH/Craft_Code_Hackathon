@@ -46,7 +46,7 @@ def signout():
     st.rerun()
 
 def main():
-    st.title("Food Safety Auditing System")
+    st.title("Quality-Quest: Food Safety Auditing System")
 
     # Role selection is mandatory before showing login or signup forms
     if 'role' not in st.session_state or st.session_state.role == "":
