@@ -103,3 +103,7 @@ Note- As this is a prototype we havent got the AI features to completely work (d
 After Manager Accepts the issue raised as valid, the employee gets 10 points:
 ## Employee Dashboard (10 Points)
 ![Employee Dashboard 10 Points](protoype_pics/7_employee_revieve_10_points.png)
+
+
+## Site Hosting in Render.com
+![Site Hosted Successfully](protoype_pics/Site_Hosted_Render_Portal.png)
