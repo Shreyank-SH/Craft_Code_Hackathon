@@ -1,12 +1,14 @@
 # Team TechMSLF
-## Quality Quest
+
+## Quality Quest (Product Overview)
 The Quality Quest system is an innovative, incentive-driven auditing platform designed to improve food safety standards in production and processing facilities. Hosted on render.com, Quality Quest leverages the power of artificial intelligence (AI) and incentive-based engagement to create an interactive web-based solution. The goal of this system is to transform the routine and often monotonous process of self-auditing into an engaging experience, by integrating competition, rewards, and instant AI feedback.
 
 Through this web application, employees can perform self-audits by uploading images of their workspaces, equipment, and food products. The AI model analyzes these images in real time, detecting potential safety issues such as unclean surfaces, equipment damage, incorrect labeling, or other hazards. Instant feedback is provided, helping employees correct issues immediately. Quality Quest also incorporates a points system to motivate employees, encouraging them to actively participate in ensuring food safety and compliance.
 
-## Project Overview
+## Motivation
+Ensuring food safety in production environments can be a challenging and often repetitive process. Traditional audits, which can feel like burdensome chores, may result in lower employee engagement over time, leading to missed safety risks. Quality Quest was created to address this problem by using an incentive-driven approach to increase engagement and accountability among employees. Hosted on render.com, the web-based platform integrates human efforts with AI to deliver real-time compliance checks, making food safety audits more interactive and rewarding.
 
-The application is built to analyze images, handle auditing tasks, and manage employee data. It integrates a database system and offers functionality for users and managers to upload images, detect whether the image represents a serious issue, and manage other related tasks.
+The integration of an incentive-based system—such as awarding points for completing audits provides rewards that encourage employees to maintain high safety standards. Management also benefits from the platform, as they receive real-time data-driven insights on trends across the facility, enabling them to address problem areas before they become critical.
 
 ## Key Components
 
