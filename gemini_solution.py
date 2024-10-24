@@ -8,7 +8,7 @@ def analyze_image_with_gemini(image_bytes):
 
     api_url = "https://gemini-api.google.com/analyze-image"
     headers = {
-        "Authorization": "AIzaSyByjhUcIU5MEUGmgX81LQvC5nAfIvb0hQk",
+        "Authorization": "Your_api_key",
         "Content-Type": "application/json"
     }
 
