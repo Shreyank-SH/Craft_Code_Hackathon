@@ -1,11 +1,9 @@
 import sqlite3
 import hashlib
 
-# Function to hash passwords
 def hash_password(password):
     return hashlib.sha256(password.encode()).hexdigest()
 
-# Function to check user login
 def login_user(username, password):
     conn = sqlite3.connect('auditing.db')
     cursor = conn.cursor()
@@ -15,7 +13,6 @@ def login_user(username, password):
     conn.close()
     return user
 
-# Function to add new user during signup
 def signup_user(username, password, role):
     conn = sqlite3.connect('auditing.db')
     cursor = conn.cursor()
@@ -25,11 +22,10 @@ def signup_user(username, password, role):
         conn.commit()
     except sqlite3.IntegrityError:
         conn.close()
-        return False  # Username already exists
+        return False
     conn.close()
     return True
 
-# Function to check if username already exists
 def user_exists(username):
     conn = sqlite3.connect('auditing.db')
     cursor = conn.cursor()
