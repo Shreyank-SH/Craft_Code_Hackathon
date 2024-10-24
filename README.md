@@ -1,6 +1,8 @@
-# Craft Code Hackathon
+# Team TechMSLF
+## Quality Quest
+The Quality Quest system is an innovative, incentive-driven auditing platform designed to improve food safety standards in production and processing facilities. Hosted on render.com, Quality Quest leverages the power of artificial intelligence (AI) and incentive-based engagement to create an interactive web-based solution. The goal of this system is to transform the routine and often monotonous process of self-auditing into an engaging experience, by integrating competition, rewards, and instant AI feedback.
 
-This project is designed for the Craft Code Hackathon and includes a Python-based application that automates the detection and classification of issues using machine learning techniques and integrated auditing systems.
+Through this web application, employees can perform self-audits by uploading images of their workspaces, equipment, and food products. The AI model analyzes these images in real time, detecting potential safety issues such as unclean surfaces, equipment damage, incorrect labeling, or other hazards. Instant feedback is provided, helping employees correct issues immediately. Quality Quest also incorporates a points system to motivate employees, encouraging them to actively participate in ensuring food safety and compliance.
 
 ## Project Overview
 
