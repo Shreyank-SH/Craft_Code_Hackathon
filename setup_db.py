@@ -1,10 +1,8 @@
 import sqlite3
 
-# Connect to SQLite database
 conn = sqlite3.connect('auditing.db')
 cursor = conn.cursor()
 
-# Create a table for storing issues
 cursor.execute('''CREATE TABLE IF NOT EXISTS issues (
                     id INTEGER PRIMARY KEY,
                     issue_type TEXT,
@@ -13,7 +11,6 @@ cursor.execute('''CREATE TABLE IF NOT EXISTS issues (
                     raised_by TEXT  -- New column to store the username of the employee who raised the issue
                  )''')
 
-# Create a table for storing accepted issues with auto-incremented ID
 cursor.execute('''CREATE TABLE IF NOT EXISTS accepted_issues (
                     id INTEGER PRIMARY KEY AUTOINCREMENT,  -- Auto-incremented ID
                     issue_type TEXT,
