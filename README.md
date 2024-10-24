@@ -55,3 +55,48 @@ In a food processing facility, employees are responsible for ensuring cleanlines
 Later, James notices an improperly labeled food package and uploads an image about the issue through the system. This proactive action earns him more points, encouraging friendly competition among his coworkers. The points James accumulates can be redeemed for rewards, such as gift cards or additional break time, motivating him to continue maintaining high safety standards.
 
 **(Note - Currently not everything mentioned in the example is implemented)**
+
+
+# Prototype Images
+
+## Landing Page
+![Landing Page](protoype_pics/1_Landing_page.png)
+
+## Employee Dashboard
+![Employee Dashboard](protoype_pics/2_employee_dashboard.png)
+
+## Employee Login
+![Employee Login](protoype_pics/2_employee_login.png)
+
+## Employee Signup
+![Employee Signup](protoype_pics/2_employee_signup.png)
+
+## Manager Dashboard (Accepted Issues)
+![Manager Dashboard Accepted Issues](protoype_pics/3_manager_dashboard_accepted_issues.png)
+
+## Manager Dashboard (Current Issues)
+![Manager Dashboard Current Issues](protoype_pics/3_manager_dashboard_current_issues.png)
+
+## Manager Login
+![Manager Login](protoype_pics/3_manager_login.png)
+
+## Manager Signup
+![Manager Signup](protoype_pics/3_manager_signup.png)
+
+## Raise Issue (Employee)
+![Raise Issue Employee](protoype_pics/4_employee_issue_raise.png)
+
+## Issue Raised Successfully (Employee)
+![Issue Raised Successfully Employee](protoype_pics/4_employee_issue_raise_succesfull.png)
+
+## Employee Dashboard (10 Points)
+![Employee Dashboard 10 Points](protoype_pics/7_employee_revieve_10_points.png)
+
+## AI Analysis on Raised Issue
+![AI Analysis on Raised Issue](protoype_pics/5_ai_analysis.png)
+
+## Manager View of Raised Issue
+![Manager View of Raised Issue](protoype_pics/5_manager_view_issue.png)
+
+## Manager Accepts Issue
+![Manager Accepts Issue](protoype_pics/6_manager_accept_issue.png)
