@@ -1,5 +1,6 @@
 # Team TechMSLF
 The prototype is currently hosted on Render.com URL:- [Quality-Quest](https://quality-quest-u9fu.onrender.com)
+As it is hosted on a free tier Render account the website might take longer to respond.
 
 ## Quality Quest (Product Overview)
 The Quality Quest system is an innovative, incentive-driven auditing platform designed to improve food safety standards in production and processing facilities. Hosted on render.com, Quality Quest leverages the power of artificial intelligence (AI) and incentive-based engagement to create an interactive web-based solution. The goal of this system is to transform the routine and often monotonous process of self-auditing into an engaging experience, by integrating competition, rewards, and instant AI feedback.
