@@ -62,55 +62,43 @@ Later, James notices an improperly labeled food package and uploads an image abo
 ## Landing Page
 ![Landing Page](protoype_pics/1_Landing_page.png)
 
-
-## Employee Dashboard
-![Employee Dashboard](protoype_pics/2_employee_dashboard.png)
-
 ## Employee Login
 ![Employee Login](protoype_pics/2_employee_login.png)
-
 
 ## Employee Signup
 ![Employee Signup](protoype_pics/2_employee_signup.png)
 
-
-## Manager Dashboard (Accepted Issues)
-![Manager Dashboard Accepted Issues](protoype_pics/3_manager_dashboard_accepted_issues.png)
-
-
-## Manager Dashboard (Current Issues)
-![Manager Dashboard Current Issues](protoype_pics/3_manager_dashboard_current_issues.png)
-
+## Employee Dashboard
+![Employee Dashboard](protoype_pics/2_employee_dashboard.png)
 
 ## Manager Login
 ![Manager Login](protoype_pics/3_manager_login.png)
 
-
 ## Manager Signup
 ![Manager Signup](protoype_pics/3_manager_signup.png)
 
+## Manager Dashboard (Accepted Issues)
+![Manager Dashboard Accepted Issues](protoype_pics/3_manager_dashboard_accepted_issues.png)
+
+## Manager Dashboard (Current Issues)
+![Manager Dashboard Current Issues](protoype_pics/3_manager_dashboard_current_issues.png)
 
 ## Raise Issue (Employee)
 ![Raise Issue Employee](protoype_pics/4_employee_issue_raise.png)
 
-
 ## Issue Raised Successfully (Employee)
 ![Issue Raised Successfully Employee](protoype_pics/4_employee_issue_raise_succesfull.png)
 
-
 ## Manager View of Raised Issue
 ![Manager View of Raised Issue](protoype_pics/5_manager_view_issue.png)
-
 
 ## AI Analysis on Raised Issue
 ![AI Analysis on Raised Issue](protoype_pics/5_ai_analysis.png)
 
 Note- As this is a prototype we havent got the AI features to completely work (due to time constraint)
 
-
 ## Manager Accepts Issue
 ![Manager Accepts Issue](protoype_pics/6_manager_accept_issue.png)
-
 
 After Manager Accepts the issue raised as valid, the employee gets 10 points:
 ## Employee Dashboard (10 Points)
