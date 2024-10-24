@@ -1,0 +1,3 @@
+Pillow>=8.0
+requests>=2.24
+streamlit>=0.84
