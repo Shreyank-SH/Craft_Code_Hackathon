@@ -44,3 +44,11 @@ A list of dependencies required to run the project. You can install all necessar
 ## AI Image Analysis
 
 The image analysis functionality is powered by a machine learning model integrated into `gemini_solution.py`. It utilizes pre-trained models to analyze uploaded images and detect whether they represent a serious issue or not.
+
+
+## Example Use Scenario
+In a food processing facility, employees are responsible for ensuring cleanliness and safety standards are met at their workstations. James, one of the employees, logs into the Quality Quest platform, hosted on render.com, from his desktop workstation. James takes photos of his workstation using his computer’s camera and uploads them directly to the platform. The AI system detects that one of the food preparation areas (From the uploaded image) has residue on the surface and flags it int the manager dashboard. James earns points raising an issue, which are tracked on the platform.
+
+Later, James notices an improperly labeled food package and uploads an image about the issue through the system. This proactive action earns him more points, encouraging friendly competition among his coworkers. The points James accumulates can be redeemed for rewards, such as gift cards or additional break time, motivating him to continue maintaining high safety standards.
+
+**(Note - Currently not everything mentioned in the example is implemented)**
