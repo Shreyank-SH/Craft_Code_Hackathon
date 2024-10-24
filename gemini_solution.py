@@ -5,7 +5,7 @@ from requests.packages.urllib3.util.retry import Retry
 
 # Function to call Gemini (or LLM) API and pass the image
 def analyze_image_with_gemini(image_bytes):
-    # Convert image to base64 (if required by Gemini API)
+    # Convert image to base64 (if required by Gemini API)    
     image_base64 = base64.b64encode(image_bytes).decode('utf-8')
 
     # Example API request (replace with actual Gemini API details)
@@ -25,7 +25,7 @@ def analyze_image_with_gemini(image_bytes):
     retry_strategy = Retry(
         total=3,
         status_forcelist=[429, 500, 502, 503, 504],
-        method_whitelist=["HEAD", "GET", "OPTIONS", "POST"],
+        allowed_methods=["HEAD", "GET", "OPTIONS", "POST"],
         backoff_factor=1
     )
     adapter = HTTPAdapter(max_retries=retry_strategy)
